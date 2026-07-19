@@ -33,10 +33,3 @@ This Power BI dashboard analyzes Blinkit's sales performance using interactive v
 ## Created By
 Drishti Rajawat
 
----
-
-# Dashboard Preview
-
-![Blinkit Sales Dashboard](Dashboard screenshot.png)
-
-![Blinkit Sales Dashboard](Dashboard_screenshot.png)
